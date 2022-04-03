@@ -2,11 +2,11 @@
 ## DeveloperApplication_MVVM
 <p float="left">
   <img src="https://user-images.githubusercontent.com/18207490/161450510-1cf8e78d-b393-40cc-b563-318cca5be571.png" height="300">
-  <img src="https://user-images.githubusercontent.com/18207490/161450511-444149ab-daba-4221-a2d6-29cd6aa485e6.png" width="450">
+  <img src="https://user-images.githubusercontent.com/18207490/161450511-444149ab-daba-4221-a2d6-29cd6aa485e6.png" width="300">
   <img src="https://user-images.githubusercontent.com/18207490/161450512-3fd74ac7-52f9-4b36-a4f7-d89f0906c0fc.png" height="300">
   <img src="https://user-images.githubusercontent.com/18207490/161450513-e0c9953c-a10d-4eda-8740-5d919a6472d7.png" height="300">
-  <img src="https://user-images.githubusercontent.com/18207490/161450514-0e788dcf-ecb2-40d4-942e-7597c17d2fa2.png">
-  <img src="https://user-images.githubusercontent.com/18207490/161450515-34907ad4-5940-43a7-a774-d9f9b147a8b5.png">
+  <img src="https://user-images.githubusercontent.com/18207490/161450514-0e788dcf-ecb2-40d4-942e-7597c17d2fa2.png" height="300>
+  <img src="https://user-images.githubusercontent.com/18207490/161450515-34907ad4-5940-43a7-a774-d9f9b147a8b5.png" height="300>
 </p>
 
 This application is written using the https://s3-eu-west-1.amazonaws.com/developer-application-test/ API. The application, MVVM, Coroutines, Hilt, Navigation component features were used.
