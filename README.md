@@ -6,9 +6,9 @@
   <img src="https://user-images.githubusercontent.com/18207490/161450512-3fd74ac7-52f9-4b36-a4f7-d89f0906c0fc.png" height="300">
   <img src="https://user-images.githubusercontent.com/18207490/161450513-e0c9953c-a10d-4eda-8740-5d919a6472d7.png" height="300">
   <img src="https://user-images.githubusercontent.com/18207490/161450514-0e788dcf-ecb2-40d4-942e-7597c17d2fa2.png" height="300>
-  <img src="https://user-images.githubusercontent.com/18207490/161450515-34907ad4-5940-43a7-a774-d9f9b147a8b5.png" height="300></br>
+  <img src="https://user-images.githubusercontent.com/18207490/161450515-34907ad4-5940-43a7-a774-d9f9b147a8b5.png" height="300><br>
 </p>
-
+<br><br>
 This application is written using the https://s3-eu-west-1.amazonaws.com/developer-application-test/ API. The application, MVVM, Coroutines, Hilt, Navigation component features were used.
 
  * Architecture is written in MVVM. 
