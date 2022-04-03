@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/18207490/161450514-0e788dcf-ecb2-40d4-942e-7597c17d2fa2.png" height="300>
   <img src="https://user-images.githubusercontent.com/18207490/161450515-34907ad4-5940-43a7-a774-d9f9b147a8b5.png" height="300>
 </p>
-
+</br>
 This application is written using the https://s3-eu-west-1.amazonaws.com/developer-application-test/ API. The application, MVVM, Coroutines, Hilt, Navigation component features were used.
 
  * Architecture is written in MVVM. 
