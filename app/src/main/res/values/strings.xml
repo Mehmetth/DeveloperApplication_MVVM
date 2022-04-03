@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeveloperApplication_MVVM</string>
+
+    <string name="error_products">Error fetching Products</string>
+    <string name="error_product_detail">Error fetching Product Detail</string>
+
+    <string name="price">Price : </string>
+    <string name="description">Description : </string>
+</resources>
